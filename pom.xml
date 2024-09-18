@@ -140,9 +140,9 @@ A project with modules is known as a multi-module, or aggregator project. Module
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>org.codehaus.mojo</groupId>
-  <artifactId>my-parent</artifactId>
-  <version>2.0</version>
+  <groupId>com.example</groupId>
+  <artifactId>myy-app</artifactId>
+  <version>1.0-snapshot</version>
   <packaging>pom</packaging>
  
   <modules>
